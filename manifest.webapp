@@ -1,0 +1,17 @@
+{
+	"version": "1.4",
+	"name": "Calculadora",
+	"launch_path": "/index.html",
+	"description": "Calculadora em HTML5 CSS3 e JQuery",
+	"icons":{
+		"16": "/16.png",
+		"32": "/32.png",
+		"64": "/64.png",
+		"128": "/128.png"
+	},
+	"developer":{
+		"name": "Leonardo Camp",
+		"url": "http://lleonardoll.xpg.com.br/"
+	},
+	"default_locale": "pt-br"
+}
